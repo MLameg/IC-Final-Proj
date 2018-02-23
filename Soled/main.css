@@ -1,0 +1,163 @@
+nav {
+	width: 100%;
+	background-color: #222;
+	height: 70px;
+	color: #fff;
+}
+body {
+	background-image: url("bkgrd.jpg");
+	
+}
+
+.title {
+	float: left;
+	height: 40px;
+	padding: 15px 12px;
+	font-size: 5em;
+	line-height: 40px;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style-type: none;
+}
+
+nav ul li {
+	float: left;
+}
+
+.navlink {
+	display: inline-block;
+	padding: 15px 80px;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.navlink:hover {
+	background-color: #444;
+}
+
+
+.main-content{
+	width: 1600px;
+	height: 900px;
+	margin: 0px auto;
+	background-color: #fff;
+	border: 1px solid black;
+}
+
+
+
+
+.foot{
+	background-color: #222;
+	bottom: 0px;
+	position: fixed;
+	width: 1600px;
+	color: #fff;
+	text-align: center;
+}
+
+
+.social-img{
+	width: 20px;
+	height: 20px;
+	margin-right: 6px;
+	margin-bottom: 5px;
+}
+
+.shop-pol{
+	text-decoration: none;
+	color: #e1d8d8;
+	font-family: Monospace;
+}
+
+.contact{
+	text-decoration: none;
+	color: #e1d8d8;
+	font-family: Monospace;
+}
+
+.policy-content{
+	width: 1600px;
+	height: 900px;
+	margin: 0px auto;
+	background-color: #fff;
+	border: 1px solid black;
+}
+
+.policy{
+	width: 500px;
+	margin: 0px auto;
+
+}
+
+.policy-title{
+	text-align: center;
+	font-family: Verdana;
+}
+
+.dot-line{
+	width:500px;
+	height:0;
+	border-top:2px dotted #313131;
+	font-size:0;
+	
+}
+
+.brand-content{
+	width: 1600px;
+	height: 900px;
+	margin: 0px auto;
+	background-color: #fff;
+	border: 1px solid black;
+}
+
+.brndicon{
+	width: 200px;
+	height: 200px;
+	padding-top: 100px;
+	padding-left: 400px;
+
+}
+
+.nike-content{
+	width: 1600px;
+	height: 900px;
+	margin: 0px auto;
+	background-color: #fff;
+	border: 1px solid black;
+}
+
+.logo{
+	width: 800px;
+	height: 150px;
+	padding-left: 400px;
+	padding-top: 50px;
+	padding-bottom: 80px;
+}
+
+.prdt-img{
+	width: 250px;
+	height: 200px;
+}
+
+.blankcell{
+	width: 100px;
+}
+
+.prdt-descr{
+	width: 300px;
+	text-align: left;
+
+}
+
+.prdt-table{
+
+}
+
